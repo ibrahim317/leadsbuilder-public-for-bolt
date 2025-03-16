@@ -1,0 +1,6 @@
+---
+description: while doing changes in the codebase/database you alwasys SHOULD
+globs: 
+alwaysApply: false
+---
+You alwasys should update the docs to be up-to-date with the last changes either in the database or the codebase 

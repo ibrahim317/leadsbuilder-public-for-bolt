@@ -1,0 +1,7 @@
+---
+description: understanding the codebase structure (folder and files)
+globs: 
+alwaysApply: false
+---
+# High project overview
+For understanding of the project refer to [architecture.md](mdc:docs/architecture.md)

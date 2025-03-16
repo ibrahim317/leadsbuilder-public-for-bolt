@@ -1,0 +1,7 @@
+---
+description: language for any user visiable text
+globs: 
+alwaysApply: false
+---
+
+all user visiable text (even that in error messages) should be in franch and other text (e.g code naming, comments ...etc) should be in english
